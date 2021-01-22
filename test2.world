@@ -24,7 +24,7 @@
         <collision name='collision'>
           <geometry>
             <box>
-              <size>4.43186 4.01344 0.1</size>
+              <size>1.26307 1.14506 0.1</size>
             </box>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -45,7 +45,7 @@
           <cast_shadows>0</cast_shadows>
           <geometry>
             <box>
-              <size>4.43186 4.01344 0.1</size>
+              <size>1.26307 1.14506 0.1</size>
             </box>
           </geometry>
           <material>
@@ -4705,11 +4705,11 @@
     <state world_name='default'>
       <sim_time>154 866000000</sim_time>
       <real_time>0 0</real_time>
-      <wall_time>1611291424 619158157</wall_time>
+      <wall_time>1611291547 824353500</wall_time>
       <iterations>0</iterations>
       <model name='asphalt_plane'>
         <pose>-0.054783 -0.070898 0 0 -0 0</pose>
-        <scale>2.12433 2.23232 1</scale>
+        <scale>3.50881 3.50499 1</scale>
         <link name='link'>
           <pose>-0.054783 -0.070898 0 0 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
@@ -5193,7 +5193,7 @@
     </state>
     <gui fullscreen='0'>
       <camera name='user_camera'>
-        <pose>-48.8941 1.48648 36.9087 0 0.593796 0.040835</pose>
+        <pose>-9.16938 -16.8565 15.7578 -0 0.645796 1.08483</pose>
         <view_controller>orbit</view_controller>
         <projection_type>perspective</projection_type>
       </camera>
@@ -5218,7 +5218,7 @@
         <collision name='collision'>
           <geometry>
             <box>
-              <size>1.01474 1 0.009311</size>
+              <size>1.02219 1 0.000898</size>
             </box>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -5238,7 +5238,7 @@
         <visual name='visual'>
           <geometry>
             <box>
-              <size>1.01474 1 0.009311</size>
+              <size>1.02219 1 0.000898</size>
             </box>
           </geometry>
           <material>
@@ -5271,7 +5271,7 @@
         <collision name='collision'>
           <geometry>
             <box>
-              <size>0.124235 1 10.3633</size>
+              <size>0.04395 1 10.3633</size>
             </box>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -5291,7 +5291,7 @@
         <visual name='visual'>
           <geometry>
             <box>
-              <size>0.124235 1 10.3633</size>
+              <size>0.04395 1 10.3633</size>
             </box>
           </geometry>
           <material>
